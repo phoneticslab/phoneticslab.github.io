@@ -4,7 +4,7 @@ title: facilities
 permalink: /facilities/
 ---
 
-Our physical lab is located in the [Department of Linguistics and English Language](https://www.lancaster.ac.uk/linguistics/), where we occupy two spaces: (1) a large room containing the sound-booth and student workspaces; (2) a specialist EMA-ultrasound lab space.
+Our physical lab is located in the [Department of Linguistics and English Language](https://www.lancaster.ac.uk/linguistics/), where we occupy two spaces: (1) a large room containing the sound-booth and student workspaces; (2) a specialist EMA-ultrasound lab space. Please direct any enquiries about booking lab space and/or equipment to our technician [Andrea Siem](mailto:a.siem@lancaster.ac.uk).
 
 # Recording facilities
 
