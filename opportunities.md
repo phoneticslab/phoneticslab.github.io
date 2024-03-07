@@ -34,4 +34,4 @@ You can see the official application information above, but do feel free to get 
 
 # Student interns and assistantships
 
-We regularly have funding for term-time and summer student internships, mainly for Lancaster University students. If you are a non-Lancaster student and wish to consider summer research please get in touch with a member of academic staff from the group.
+We regularly have funding for term-time and summer student internships, mainly for Lancaster University students. If you are a non-Lancaster student and wish to consider summer research please get in touch with a member of academic staff from the group. Note that we don't offer any unfunded research assistant positions - we believe you should be paid for your work!
