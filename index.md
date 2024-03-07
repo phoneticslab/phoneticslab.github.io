@@ -14,7 +14,8 @@ We specialise in the following research themes:
 
 * Articulatory dynamics of speech (including methods for vocal tract imaging & kinematics)
 * Laboratory phonology (including sociophonetics, sound change & dynamical modelling)
-* Forensic speech science & forensic speech technology
+* Forensic speech science
+* Speech technology
 * Phonetics of minority languages & multilingualism
 
 We also maintain active relations with a range of partners in the commercial, public and security sectors. Please feel free to browse this website to find out more about our lab's facilities, ongoing research, and opportunities within the group.
