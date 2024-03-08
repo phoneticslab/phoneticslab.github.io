@@ -7,7 +7,7 @@ permalink: /research/
 
 # Current projects
 
-Our research spans a large number of projects across diverse areas - it would be too difficult to keep an up-to-date list! You can get a good idea abot what people are working on by looking at the group member pages linked [here](people.md). Some recent and current funded projects include:
+Our research spans a large number of projects across diverse areas - it would be too difficult to keep an up-to-date list! You can get a good idea of what people are working on by looking at the lab's member pages linked [here](people.md). Some recent and current funded projects include:
 
 * Modelling the dynamics of phonetic and phonological variation (AHRC)
 * Vocal effort, nasal coarticulation & individual variability (IAFPA)
