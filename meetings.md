@@ -4,7 +4,7 @@ title: meetings
 permalink: /meetings/
 ---
 
-We meet weekly as a group during term time, with a mix of invited speakers and internal talks. We also host occasional workshops and schedule a lab social at least once per term. You can find a partial list of previous talks and events [here](add-link).
+We meet weekly as a group during term time, with a mix of invited speakers and internal talks. We also host occasional workshops and schedule a lab social at least once per term.
 
 Details of all talks and events are publicised via our mailing list. Lancaster staff and students can add themselves to the phonetics mailing list as follows:
 

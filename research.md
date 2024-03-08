@@ -7,12 +7,14 @@ permalink: /research/
 
 # Current projects
 
-* Children's acquisition of palatalisation contrasts in Scottish Gaelic (CN)
-* Modelling the dynamics of phonetic variation and phonological change ([AHRC](https://www.ukri.org/councils/ahrc/), SK)
-* Changing /r/ accents? ([Leverhulme Trust](https://www.leverhulme.ac.uk), DT)
-* Resonance as a phonetic resource in language cognition ([SPARC](https://www.sparcindia.org), DT)
-* Identifying speakers who speak an unfamiliar language ([British Academy](https://www.thebritishacademy.ac.uk), GB)
-* Targets and dynamics in speech ([AHRC](https://www.ukri.org/councils/ahrc/), SK)
+Our research spans a large number of projects across diverse areas - it would be too difficult to keep an up-to-date list! You can get a good idea abot what people are working on by looking at the group member pages linked [here](people.md). Some recent and current funded projects include:
+
+* Modelling the dynamics of phonetic and phonological variation (AHRC)
+* Vocal effort, nasal coarticulation & individual variability (IAFPA)
+* Resonance as a phonetic resource in language cognition (SPARC)
+* Changing /r/ accents? (Leverhulme Trust)
+* Identifying speakers who speak an unfamiliar language (British Academy)
+* Targets and dynamics in speech (AHRC)
 
 
 # Publications
