@@ -42,6 +42,7 @@ permalink: /people/
 * [Ricky Chan](https://english.hku.hk/people/Faculty/72/Dr_Ricky_Chan) (lecturer 2017-18, now Assistant Profesor at University of Hong Kong)
 * [Ozgur Parlak](https://www.aus.edu/faculty/ozgur-parlak) (PhD 2019, Assistant Professor at American University of Sharjah)
 * [Roy Alderton](https://www.city.ac.uk/about/people/academics/roy-alderton) (PhD 2020, now Lecturer in Phonetics at City University of London)
+* [Donald Morrison](http://www.damoireasdan.com) (PhD 2020, now Lecturer in Phonetics and Phonology at University of Manchester)
 * [Bahar Aksu](https://erzincanuniversityelt.wordpress.com/ali-dincer/) (PhD 2022, now Lecturer at Erzincan Binali Yildirim University)
 * Max Topps (MPhil 2022)
 * [Andrea Siem](https://www.lancaster.ac.uk/linguistics/about/people/andrea-siem) (PhD 2023, now Linguistics Technician at Lancaster University)
