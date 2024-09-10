@@ -7,8 +7,7 @@ permalink: /opportunities/
 
 # Current positions
 
-We currently do not have any open positions, but there will be upcoming research positions during 2024/25.
-
+* Currently hiring for: Senior Research Associate in Dynamical Modelling of Spoken Language https://hr-jobs.lancs.ac.uk/Vacancy.aspx?ref=0970-24
 
 # Post-doc applications
 
