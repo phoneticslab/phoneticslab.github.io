@@ -18,6 +18,8 @@ permalink: /people/
 
 # Post-docs and research assistants
 
+* [Emily Gorman](https://www.lancaster.ac.uk/linguistics/about/people/emily-gorman)
+* [Anton Malmi](https://www.etis.ee/CV/Anton_Malmi/eng/) (from January 2025)
 * [Robert Lennon](https://robertlennon50.github.io)
 
 # PhD students
