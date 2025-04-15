@@ -19,14 +19,11 @@ permalink: /people/
 # Post-docs and research assistants
 
 * [Emily Gorman](https://www.lancaster.ac.uk/linguistics/about/people/emily-gorman)
-* [Anton Malmi](https://www.etis.ee/CV/Anton_Malmi/eng/) (from January 2025)
-* [Robert Lennon](https://robertlennon50.github.io)
+* [Anton Malmi](https://www.etis.ee/CV/Anton_Malmi/eng/)
 
 # PhD students
 
 * [Emily Gorman](https://www.lancaster.ac.uk/linguistics/about/people/emily-gorman)
-* [Luke Carroll](https://www.research.lancs.ac.uk/portal/en/people/luke-carroll(49cfa7af-a65b-44eb-97a2-446615957e59).html)
-* [Takayuki Nagamine](https://takayukinagamine.github.io)
 * [Maya Dewhurst](https://www.research.lancs.ac.uk/portal/en/people/maya-dewhurst(f37daf48-b06b-4959-bfa5-25c66697ed13).html)
 * [Lois Fairclough](https://www.research.lancs.ac.uk/portal/en/people/lois-fairclough(3a5ddc8a-426b-4807-a8a8-c428d8bba1d8).html)
 * [Seren Parkman](https://www.research.lancs.ac.uk/portal/en/people/seren-parkman(e711c793-12ef-4d98-9ddc-3b03a7d1091f).html)
@@ -36,7 +33,7 @@ permalink: /people/
 
 # Affiliated members
 
-* Christin Kirchübel, [Soundscape Voice Evidence](https://soundscapevoice.com)
+* Christin Kirchhübel, [Soundscape Voice Evidence](https://soundscapevoice.com)
 
 # Alumni (former staff, PhDs & post-docs)
 
@@ -48,4 +45,7 @@ permalink: /people/
 * [Bahar Aksu](https://erzincanuniversityelt.wordpress.com/ali-dincer/) (PhD 2022, now Lecturer at Erzincan Binali Yildirim University)
 * Max Topps (MPhil 2022)
 * [Andrea Siem](https://www.lancaster.ac.uk/linguistics/about/people/andrea-siem) (PhD 2023, now Linguistics Technician at Lancaster University)
+* [Robert Lennon](https://robertlennon50.github.io) (post-doc 2020-2024)
+* [Takayuki Nagamine](https://takayukinagamine.github.io) (PhD 2024, now post-doc at University College London)
+* [Luke Carroll](https://www.research.lancs.ac.uk/portal/en/people/luke-carroll(49cfa7af-a65b-44eb-97a2-446615957e59).html) (PhD 2024, now Voice Analyst at Soundscape Voice Evidence)
 
