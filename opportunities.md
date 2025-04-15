@@ -7,18 +7,17 @@ permalink: /opportunities/
 
 # Current positions
 
-We currently do not have any open positions, but there will be upcoming research positions during 2024/25.
-
+* Currently hiring for: [Senior Research Associate in Dynamical Modelling of Spoken Language](https://hr-jobs.lancs.ac.uk/Vacancy.aspx?ref=0970-24)
 
 # Post-doc applications
 
-Any open post-doc positions will be listed above. If you wish to apply to do your own post-doc project with us, then you can find some funding schemes below, but this is not an exhuastive list and we were are open to any projects that fit with our group's interests.
+Any open post-doc positions will be listed above. If you wish to apply to do your own post-doc project with us, then you can find some funding schemes below, but this is not an exhuastive list and we were are open to any projects that fit with our group's interests. Most of these schemes are open to applicants from anywhere in the world.
 
+* [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships?)
 * [UKRI Future Leaders Fellowships](https://www.ukri.org/what-we-do/developing-people-and-skills/future-leaders-fellowships/)
 * [British Academy Postdoctoral Fellowship](https://www.thebritishacademy.ac.uk/funding/postdoctoral-fellowships/)
 * [British Academy International Fellowships](https://www.thebritishacademy.ac.uk/funding/international-fellowships/)
 * [Leverhulme Trust Early Career Fellowship](https://www.leverhulme.ac.uk/early-career-fellowships)
-* [Marie Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 * [ESRC Postdoctoral Fellowship](https://www.ukri.org/opportunity/esrc-postdoctoral-fellowships/)
 
 If you are a junior academic with existing research funding and you might be interested in working with us then please get in touch.
