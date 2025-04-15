@@ -6,11 +6,11 @@ permalink: /people/
 
 # Academic staff
 
-* [Sam Kirkham](https://samkirkham.github.io)
-* [Claire Nance](https://clairenance.github.io)
 * [Georgina Brown](https://www.lancaster.ac.uk/linguistics/about/people/georgina-brown)
-* [Danielle Turton](https://danielleturton.rbind.io)
+* [Sam Kirkham](https://samkirkham.github.io)
 * [Justin Lo](https://justinjhlo.github.io)
+* [Claire Nance](https://clairenance.github.io)
+* [Danielle Turton](https://danielleturton.rbind.io)
 
 # Technical staff
 
