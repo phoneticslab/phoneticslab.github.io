@@ -11,7 +11,7 @@ We do not have any current openings.
 
 # Post-doc applications
 
-Any open post-doc positions will be listed above. If you wish to apply to do your own post-doc project with us, then you can find some funding schemes below, but this is not an exhuastive list and we were are open to any projects that fit with our group's interests. Most of these schemes are open to applicants from anywhere in the world.
+Any open post-doc positions will be listed above. If you wish to apply to do your own post-doc project with us, then you can find some funding schemes below, but this is not an exhuastive list and we are open to any projects that fit with our group's interests. Most of these schemes are open to applicants from anywhere in the world.
 
 * [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships?)
 * [UKRI Future Leaders Fellowships](https://www.ukri.org/what-we-do/developing-people-and-skills/future-leaders-fellowships/)
