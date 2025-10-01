@@ -4,7 +4,7 @@ title: facilities
 permalink: /facilities/
 ---
 
-Our physical lab is located in the [Department of Linguistics and English Language](https://www.lancaster.ac.uk/linguistics/), where we occupy two spaces: (1) a large room containing the sound-booth and student workspaces; (2) a specialist EMA-ultrasound lab space. Please direct any enquiries about booking lab space and/or equipment to our technician [Andrea Siem](mailto:a.siem@lancaster.ac.uk).
+Our physical lab is located in [Linguistics and English Language](https://www.lancaster.ac.uk/social-sciences/linguistics-and-english-language/), where we occupy two spaces: (1) a large room containing the sound-booth and student workspaces; (2) a specialist EMA-ultrasound lab space. Please direct any enquiries about booking lab space and/or equipment to our technician [Andrea Siem](mailto:a.siem@lancaster.ac.uk).
 
 # Recording facilities
 
@@ -32,6 +32,10 @@ Our physical lab is located in the [Department of Linguistics and English Langua
 * Access to Lancaster's High End Computing Cluster
 * Dedicated lab server space on the university network
 
+# Eye-tracking
+
+* Tobii Pro TX300
+* Tobii Pro Fusion 60 Hz
 
 # Other hardware
 
@@ -42,8 +46,9 @@ Our physical lab is located in the [Department of Linguistics and English Langua
 * MakerBot Replicator+ 3D printer
 
 
-# Other labs at LU
+# Other labs at LAEL
 
-* [Perception and Learning Lab](http://wp.lancs.ac.uk/perll/) (EEG lab)
-* [Eye-Tracking Lab](http://wp.lancs.ac.uk/ltrg/eye-tracking-lab/) (mobile and desktop eye-tracking)
+* [Brain and Bilingual Experience Lab (BaBEL)](https://www.lancaster.ac.uk/social-sciences/linguistics-and-english-language/research/multilingualism/babel/) (EEG lab)
+* [Lancaster Language Learning Lab (4L)](https://www.lancaster.ac.uk/language-learning/)
+* [Eye-Tracking Lab](http://wp.lancs.ac.uk/ltrg/eye-tracking-lab/)
 * Child Language Lab
