@@ -6,7 +6,7 @@ permalink: /people/
 
 # Academic staff
 
-* [Georgina Brown](https://www.lancaster.ac.uk/linguistics/about/people/georgina-brown)
+* [Georgina Brown](https://www.lancaster.ac.uk/social-sciences/people/georgina-brown)
 * [Sam Kirkham](https://samkirkham.github.io)
 * [Justin Lo](https://justinjhlo.github.io)
 * [Claire Nance](https://clairenance.github.io)
@@ -14,22 +14,24 @@ permalink: /people/
 
 # Technical staff
 
-* [Andrea Siem](https://www.lancaster.ac.uk/linguistics/about/people/andrea-siem)
+* [Andrea Siem](https://www.lancaster.ac.uk/social-sciences/people/andrea-siem)
 
 # Post-docs and research assistants
 
-* [Emily Gorman](https://www.lancaster.ac.uk/linguistics/about/people/emily-gorman)
+* [Emily Gorman](https://www.lancaster.ac.uk/social-sciences/people/emily-gorman)
 * [Anton Malmi](https://www.etis.ee/CV/Anton_Malmi/eng/)
 
 # PhD students
 
-* [Emily Gorman](https://www.lancaster.ac.uk/linguistics/about/people/emily-gorman)
-* [Maya Dewhurst](https://www.research.lancs.ac.uk/portal/en/people/maya-dewhurst(f37daf48-b06b-4959-bfa5-25c66697ed13).html)
-* [Lois Fairclough](https://www.research.lancs.ac.uk/portal/en/people/lois-fairclough(3a5ddc8a-426b-4807-a8a8-c428d8bba1d8).html)
-* [Seren Parkman](https://www.research.lancs.ac.uk/portal/en/people/seren-parkman(e711c793-12ef-4d98-9ddc-3b03a7d1091f).html)
-* [Pamela Forster](https://www.research.lancs.ac.uk/portal/en/people/pamela-forster(afe52d08-7860-437d-8bfd-5afb443c7cb4).html)
+* [Maya Dewhurst](https://research.lancaster-university.uk/en/persons/maya-dewhurst)
+* [Lois Fairclough](https://research.lancaster-university.uk/en/persons/lois-fairclough)
+* [Pamela Forster](https://research.lancaster-university.uk/en/persons/pamela-forster)
+* [Emily Gorman](https://www.lancaster.ac.uk/social-sciences/people/emily-gorman)
 * Ellen Grand
-* [Sarah (Di) Wang](https://www.research.lancs.ac.uk/portal/en/people/di-wang(38b3be97-db15-41e1-97b1-fbab1314d03e).html)
+* [Seren Parkman](https://research.lancaster-university.uk/en/persons/seren-parkman)
+* Rakgyun Shin
+* Scarlett Vanroose-Peer
+* [Sarah (Di) Wang](https://research.lancaster-university.uk/en/persons/di-wang)
 
 # Affiliated members
 
@@ -37,15 +39,14 @@ permalink: /people/
 
 # Alumni (former staff, PhDs & post-docs)
 
-* [Adrian Leemann](https://www.adrianleemann.com) (lecturer 2017-19, now Professor at University of Bern)
-* [Ricky Chan](https://english.hku.hk/people/Faculty/72/Dr_Ricky_Chan) (lecturer 2017-18, now Assistant Profesor at University of Hong Kong)
-* [Ozgur Parlak](https://www.aus.edu/faculty/ozgur-parlak) (PhD 2019, Assistant Professor at American University of Sharjah)
-* [Roy Alderton](https://www.city.ac.uk/about/people/academics/roy-alderton) (PhD 2020, now Lecturer in Phonetics at City University of London)
-* [Donald Morrison](http://www.damoireasdan.com) (PhD 2020, now Lecturer in Phonetics and Phonology at University of Manchester)
 * [Bahar Aksu](https://erzincanuniversityelt.wordpress.com/ali-dincer/) (PhD 2022, now Lecturer at Erzincan Binali Yildirim University)
-* Max Topps (MPhil 2022)
-* [Andrea Siem](https://www.lancaster.ac.uk/linguistics/about/people/andrea-siem) (PhD 2023, now Linguistics Technician at Lancaster University)
+* [Roy Alderton](https://www.city.ac.uk/about/people/academics/roy-alderton) (PhD 2020, now Lecturer in Phonetics at City St George's, University of London)
+* Luke Carroll (PhD 2024)
+* [Ricky Chan](https://english.hku.hk/people/Faculty/72/Dr_Ricky_Chan) (lecturer 2017-18, now Assistant Profesor at University of Hong Kong)
+* [Adrian Leemann](https://www.adrianleemann.com) (lecturer 2017-19, now Professor at University of Bern)
 * [Robert Lennon](https://robertlennon50.github.io) (post-doc 2020-2024)
+* [Donald Morrison](http://www.damoireasdan.com) (PhD 2020, now Lecturer in Phonetics and Phonology at University of Manchester)
 * [Takayuki Nagamine](https://takayukinagamine.github.io) (PhD 2024, now post-doc at University College London)
-* [Luke Carroll](https://www.research.lancs.ac.uk/portal/en/people/luke-carroll(49cfa7af-a65b-44eb-97a2-446615957e59).html) (PhD 2024, now Voice Analyst at Soundscape Voice Evidence)
-
+* [Ozgur Parlak](https://www.aus.edu/faculty/ozgur-parlak) (PhD 2019, Assistant Professor at American University of Sharjah)
+* [Andrea Siem](https://www.lancaster.ac.uk/social-sciences/people/andrea-siem) (PhD 2023, now Linguistics Technician at Lancaster University)
+* Max Topps (MPhil 2022)
