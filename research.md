@@ -19,7 +19,7 @@ Our research spans a large number of projects across diverse areas - it would be
 
 # Publications
 
-A list of publications from our lab is available [here](http://www.research.lancs.ac.uk/portal/en/organisations/phonetics-lab/publications.html).
+A list of publications from our lab is available [here](https://research.lancaster-university.uk/en/organisations/phonetics-lab/publications/).
 
 
 # Software 
