@@ -7,7 +7,7 @@ permalink: /opportunities/
 
 # Current positions
 
-We do not have any current openings.
+We are currently hiring for a [Senior Research Associate](https://hr-jobs.lancs.ac.uk/Vacancy.aspx?ref=0783-25) to work on a subproject of the Common European Language Indication and Analysis (CELIA) Project.
 
 # Post-doc applications
 
@@ -26,13 +26,13 @@ If you are a junior academic with existing research funding and you might be int
 
 Occasionally we have funded PhD projects available, which will be listed above. Most of our students are funded by the [North West Social Science Doctoral Training Partnership](https://nwssdtp.ac.uk), who provide scholarships covering fees and maintainance costs to UK and international students, allowing them to work on their own project ideas for 3-4 years.
 
-For more information about studying at Lancaster please see [here](https://www.lancaster.ac.uk/linguistics/phd/). It is highly advisable to contact a relevant member of academic staff from our group if you are interested in applying, as we need to make sure we have availability and that your project fits our interests.
+For more information about studying at Lancaster please see [here](https://www.lancaster.ac.uk/social-sciences/linguistics-and-english-language/phd/). It is highly advisable to contact a relevant member of academic staff from our group if you are interested in applying, as we need to make sure we have availability and that your project fits our interests.
 
-You can find information about applying for funding [here](https://www.lancaster.ac.uk/linguistics/phd/scholarship-and-funding-opportunities/). Most of these schemes are open to UK and international students, but please check the guidelines of each scheme for more details. If you want to apply for funding then we would definitely recommend getting in touch well in advance of the application date.
+You can find information about applying for funding [here](https://www.lancaster.ac.uk/social-sciences/linguistics-and-english-language/phd/scholarship-and-funding-opportunities/). Most of these schemes are open to UK and international students, but please check the guidelines of each scheme for more details. If you want to apply for funding then we would definitely recommend getting in touch well in advance of the application date.
 
 # Visiting researchers
 
-Our Department offers a [scheme for visiting researchers](https://www.lancaster.ac.uk/linguistics/visitors/). This covers the official application information, but do feel free to get in touch with a member of staff from the group for an informal chat beforehand to assess whether you would be a good fit and that we'd be able to support your visit. If you just want to visit us briefly or are passing through and want to give a talk then feel free to get in touch!
+Our Faculty offers a scheme for visiting researchers. Please feel free to get in touch with a member of staff from the group for application information and an informal chat to assess whether you would be a good fit, so that we'd be able to support your visit. If you just want to visit us briefly or are passing through and want to give a talk then feel free to get in touch!
 
 
 # Student interns and assistantships
