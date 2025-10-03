@@ -5,7 +5,7 @@ title: about
 
 ![logo](img/logo.jpg){:width="35%"}{:style="float:left; margin-right:30px; margin-top: 6px;"}
 
-Lancaster University Phonetics Lab is research group spanning a series of interrelated research programs across phonetics and speech science. We are based in [Linguistics and English Language](https://www.lancaster.ac.uk/social-sciences/linguistics-and-english-language/) at [Lancaster University](https://www.lancaster.ac.uk). We are also affiliated with [Soundscape Voice Evidence](https://soundscapevoice.com), which is a private forensic speech science consultancy co-located in the department.
+Lancaster University Phonetics Lab is a research group spanning a series of interrelated research programs across phonetics and speech science. We are based in [Linguistics and English Language](https://www.lancaster.ac.uk/social-sciences/linguistics-and-english-language/) at [Lancaster University](https://www.lancaster.ac.uk). We are also affiliated with [Soundscape Voice Evidence](https://soundscapevoice.com), which is a private forensic speech science consultancy co-located in the department.
 
 <br>
 
