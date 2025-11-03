@@ -7,7 +7,7 @@ permalink: /opportunities/
 
 # Current positions
 
-We are currently hiring for a [Senior Research Associate](https://hr-jobs.lancs.ac.uk/Vacancy.aspx?ref=0783-25) to work on a subproject of the Common European Language Indication and Analysis (CELIA) Project.
+We do not have any open positions at the moment.
 
 # Post-doc applications
 
