@@ -13,10 +13,10 @@ We do not have any open positions at the moment.
 
 Any open post-doc positions will be listed above. If you wish to apply to do your own post-doc project with us, then you can find some funding schemes below, but this is not an exhuastive list and we are open to any projects that fit with our group's interests. Most of these schemes are open to applicants from anywhere in the world.
 
-* [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships?)
-* [UKRI Future Leaders Fellowships](https://www.ukri.org/what-we-do/developing-people-and-skills/future-leaders-fellowships/)
+* [Marie Skłodowska-Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships?)
+* [UKRI Future Leaders Fellowship](https://www.ukri.org/what-we-do/developing-people-and-skills/future-leaders-fellowships/)
 * [British Academy Postdoctoral Fellowship](https://www.thebritishacademy.ac.uk/funding/postdoctoral-fellowships/)
-* [British Academy International Fellowships](https://www.thebritishacademy.ac.uk/funding/international-fellowships/)
+* [British Academy International Fellowship](https://www.thebritishacademy.ac.uk/funding/international-fellowships/)
 * [Leverhulme Trust Early Career Fellowship](https://www.leverhulme.ac.uk/early-career-fellowships)
 * [ESRC Postdoctoral Fellowship](https://www.ukri.org/opportunity/esrc-postdoctoral-fellowships/)
 

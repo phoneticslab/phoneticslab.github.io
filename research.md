@@ -9,6 +9,8 @@ permalink: /research/
 
 Our research spans a large number of projects across diverse areas - it would be too difficult to keep an up-to-date list! You can get a good idea of what people are working on by looking at the lab's member pages linked [here](people.md). Some recent and current funded projects include:
 
+* Interpretable acoustic-articulatory relations in speech production (Royal Society)
+* Accent recognition for Levantine Arabic dialects (European Commission)
 * Modelling the dynamics of phonetic and phonological variation (AHRC)
 * Vocal effort, nasal coarticulation & individual variability (IAFPA)
 * Resonance as a phonetic resource in language cognition (SPARC)
