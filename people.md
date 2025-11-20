@@ -27,8 +27,8 @@ permalink: /people/
 * [Pamela Forster](https://research.lancaster-university.uk/en/persons/pamela-forster)
 * Ellen Grand
 * [Seren Parkman](https://research.lancaster-university.uk/en/persons/seren-parkman)
-* Rakgyun Shin
-* Scarlett Vanroose-Peer
+* [Rakgyun Shin](https://research.lancaster-university.uk/en/persons/rak-shin/)
+* [Scarlett Vanroose-Peer](https://research.lancaster-university.uk/en/persons/scarlett-vanroose-peer/)
 * [Sarah (Di) Wang](https://research.lancaster-university.uk/en/persons/di-wang)
 
 # Affiliated members
