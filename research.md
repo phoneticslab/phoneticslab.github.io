@@ -18,7 +18,7 @@ Our current funded projects include:
 * Developing Y-ACCDIST's robustness for use on Levantine Arabic dialects (EU)
 
 <details markdown="1">
-<summary>
+<summary markdown="1">
 
 ## Past projects
 </summary>
