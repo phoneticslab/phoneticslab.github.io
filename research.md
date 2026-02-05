@@ -7,17 +7,28 @@ permalink: /research/
 
 # Current projects
 
-Our research spans a large number of projects across diverse areas - it would be too difficult to keep an up-to-date list! You can get a good idea of what people are working on by looking at the lab's member pages linked [here](people.md). Some recent and current funded projects include:
+Our research spans a large number of projects across diverse areas - it would be too difficult to keep an up-to-date list! You can get a good idea of what people are working on by looking at the lab's member pages linked [here](people.md). Our current funded projects include:
 
+* The Voice of the North: Language, accent and identity through artistic innovation (AHRC IAA)
+* A Future Archive: Cultural innovation through film and audio heritage (AHRC IAA)
 * Interpretable acoustic-articulatory relations in speech production (Royal Society)
-* Accent recognition for Levantine Arabic dialects (European Commission)
-* Modelling the dynamics of phonetic and phonological variation (AHRC)
-* Vocal effort, nasal coarticulation & individual variability (IAFPA)
-* Resonance as a phonetic resource in language cognition (SPARC)
-* Changing /r/ accents? (Leverhulme Trust)
-* Identifying speakers who speak an unfamiliar language (British Academy)
-* Targets and dynamics in speech (AHRC)
+* The articulatory properties of children's acquisition of Estonian palatalisation (Estonian Research Council)
+* Developing Y-ACCDIST's robustness for use on Levantine Arabic dialects (EU)
 
+# Past projects
+
+<details markdown="1">
+
+<summary markdown="span">Click to see some of our past funded projects</summary>
+
+* [Modelling the dynamics of phonetic variation and phonological change](https://gtr.ukri.org/projects?ref=AH%2FY002822%2F1) (AHRC, 2024-25)
+* Resonance as a phonetic resource in language cognition: A cross-linguistic articulatory-acoustic-perception study of liquids (SPARC, 2023-25)
+* The effect of vocal effort on the variability of nasal coarticulation (IAFPA, 2023)
+* Identifying speakers who speak an unfamiliar language: Finding and sharing a solution to foreign-language evidence in forensic speech casework (British Academy, 2022-23)
+* Changing /r/ accents? Towards a sociophonological understanding of sound change (Leverhulme Trust, 2020-25)
+* [TarDiS: Targets and dynamics in speech](https://gtr.ukri.org/projects?ref=AH%2FS011900%2F1) (AHRC, 2019-23)
+
+</details>
 
 # Publications
 
