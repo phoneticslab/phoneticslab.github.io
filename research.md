@@ -18,8 +18,10 @@ Our current funded projects include:
 * Developing Y-ACCDIST's robustness for use on Levantine Arabic dialects (EU)
 
 <details markdown="1">
+<summary markdown="span">
 
-<summary markdown="span"><h2>Past projects</h2></summary>
+## Past projects
+</summary>
 
 * [Modelling the dynamics of phonetic variation and phonological change](https://gtr.ukri.org/projects?ref=AH%2FY002822%2F1) (AHRC, 2024-25)
 * Resonance as a phonetic resource in language cognition: A cross-linguistic articulatory-acoustic-perception study of liquids (SPARC, 2023-25)
