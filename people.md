@@ -10,7 +10,7 @@ permalink: /people/
 * [Sam Kirkham](https://samkirkham.github.io)
 * [Justin Lo](https://justinjhlo.github.io)
 * [Claire Nance](https://clairenance.github.io)
-* [Beatrice Szeczepek Reed](https://www.lancaster.ac.uk/social-sciences/people/beatrice-szczepek-reed)
+* [Beatrice Szczepek Reed](https://www.lancaster.ac.uk/social-sciences/people/beatrice-szczepek-reed)
 * [Danielle Turton](https://danielleturton.rbind.io)
 
 # Technical staff
