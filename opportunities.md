@@ -7,7 +7,7 @@ permalink: /opportunities/
 
 # Current positions
 
-[**Senior Research Associate in Machine Learning for Speech Processing**](https://hr-jobs.lancs.ac.uk/Vacancy.aspx?ref=0181-26) (Closing date: 10 April 2026)
+We do not currently have any open positions.
 
 # Post-doc applications
 
