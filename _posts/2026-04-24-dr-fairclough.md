@@ -8,7 +8,7 @@ exclude_from_homepage: true
 
 Huge congratulations to Lois Fairclough, who passed her PhD viva subject to minor revisions earlier this week! 
 
-{% include image.html file="/img/2026-04-24-dr-fairclough.JPG" description="Celebrating Lois' viva success!." alt="Lois (back centre) surrounded by members of the Phonetics Lab (back), together with viva chair Silke Brandt (front left), external examiner Kirsty McDougall (front centre) and internal examiner Justin Lo (front right)." %}
+{% include image.html file="/img/2026-04-24-dr-fairclough.JPG" description="Celebrating Lois' viva success!" alt="Lois (back centre) surrounded by members of the Phonetics Lab (back), together with viva chair Silke Brandt (front left), external examiner Kirsty McDougall (front centre) and internal examiner Justin Lo (front right)." %}
 
 Lois' thesis, titled *Evaluting sources of variability in formant-based speaker discrimination*, was examined by Kirsty McDougall (Cambridge) and Justin Lo (Lancaster).
 
