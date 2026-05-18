@@ -7,8 +7,6 @@ title: about
 
 Lancaster University Phonetics Lab is a research group spanning a series of interrelated research programs across phonetics and speech science. We are based in [Linguistics and English Language](https://www.lancaster.ac.uk/social-sciences/linguistics-and-english-language/) at [Lancaster University](https://www.lancaster.ac.uk).
 
-<br>
-
 We pride ourselves on an inclusive, friendly and supportive research culture, where the purpose of the group is to provide an environment in which individuals can flourish and achieve their personal academic goals.
 
 We specialise in the following research areas:
