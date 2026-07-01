@@ -7,7 +7,7 @@ permalink: /opportunities/
 
 # Current positions
 
-EPSRC Doctoral Landscape Award-funded PhD project: [*Decoding Ruminative Inner Speech with Multimodal Brain-and-Articulatory Machine Learning*](https://www.lancaster.ac.uk/psychology/study/phd/#epsrc-phd-studentship-406250-2), supervised by Bo Yao (Psychology), Hossein Rahmani (Computing & Communications) & Sam Kirkham (Closing 30 June 2026)
+We do not currently have any open positions.
 
 # Post-doc applications
 
